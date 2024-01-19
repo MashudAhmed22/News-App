@@ -1,0 +1,19 @@
+npm i react-router-dom
+        or
+npm install react-router-dom
+
+
+import {
+    Route,BrowserRouter as Router,Routes
+} from 'react-router-dom';
+<Router>
+<Routes>
+    <Route exact path="/pathname" element={
+        <Component key="can give path name only like 'about">}> //path is unique key
+    <Route>
+<Routes>
+</Router>
+
+-----child --
+import {Link} from 'react-router-dom';
+<Link to="">
