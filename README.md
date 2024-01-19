@@ -64,5 +64,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 6. Open a pull request
 
 ## Images
-Added Images(screenshot) for references
+- 1. I have placed the website images (screenshots) in the **public** folder for reference.
 
