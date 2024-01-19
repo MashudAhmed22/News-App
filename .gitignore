@@ -4,13 +4,17 @@
 /node_modules
 /.pnp
 .pnp.js
-/router.txt
+
 
 # testing
 /coverage
 
 # production
 /build
+
+/router.txt
+/Soursenews.json
+
 
 # misc
 .DS_Store
