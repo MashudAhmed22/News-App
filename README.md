@@ -1,4 +1,4 @@
-![Screenshot (323)](https://github.com/MashudAhmed22/Text-Utils/assets/121104833/32fe5b03-f071-4a24-8ec9-1168205e2b11)# daily news app
+![Screenshot (323)]([https://github.com/MashudAhmed22/Text-Utils/assets/121104833/32fe5b03-f071-4a24-8ec9-1168205e2b11](https://github.com/MashudAhmed22/News-App/blob/master/public/newsapp%20screenshot.jpg))# daily news app
 # Daily News App
 
 Daily News is a React-based news app that provides quick updates across various categories. The app includes features such as a responsive navigation bar, top loading bar, and different news sections for politics, sports, business, entertainment, health, science, and technology.
