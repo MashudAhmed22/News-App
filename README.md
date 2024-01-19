@@ -22,6 +22,7 @@ Daily News is a React-based news app that provides quick updates across various 
 - React Router
 - Bootstrap
 - CSS
+- HTML
 
 ## Installation
 
